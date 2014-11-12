@@ -1,6 +1,6 @@
 <?php
   include"head.php";
-  abc
+  
   $positionname = $_POST["positionname"];
   $content = $_POST["content"];
   $compweight1 = $_POST["compweight1"];
